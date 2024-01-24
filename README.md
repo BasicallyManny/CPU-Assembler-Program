@@ -1,8 +1,8 @@
-# Assembler-Program-for-Assembly-Class
+# CPU Assembler
 ## Overview
-This is an assembler program that takes text as input and outputs bits that correspond to that text. The bits would then run the command
+A program that translate assembly code into machine code by useing short alphanumeric codes to represent processor instructions.
 
 ## Features
 - An lexical analyzer with an state machine to convert text to bits
 - An  Arithmetic Logic Unit (ALU) 
-- An "CPU" that runs CPU Decode,Execute,Store
+- An "CPU" that Decode,Execute,Store
